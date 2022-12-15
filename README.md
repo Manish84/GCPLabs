@@ -1,2 +1,2 @@
 # GCPLabs
-This folder contains multipol labs for GCP architect certification exam.
+This folder contains multiple labs for GCP architect certification exam.
